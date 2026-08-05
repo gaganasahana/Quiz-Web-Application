@@ -1,0 +1,26 @@
+[
+    {
+    "question": "The upper house of Indian Parliament is known as",
+    "choice1":"The Rajya Sabha",
+    "choice2":"The Lok Sabha",
+    "choice3":"The Vidhana Sabha",
+    "choice4":"The Vidhana Parshad",
+    "answer":1
+    },
+    {
+        "question": "Which is the house where the chairperson is not the member of that house",
+    "choice1":"The Rajya Sabha",
+    "choice2":"The Lok Sabha",
+    "choice3":"The Vidhana Sabha",
+    "choice4":"The Vidhana Parshad",
+    "answer":1
+    },
+    {
+        "question": "The first mid-term elections for Lok Sabha were held in",
+    "choice1":"1971",
+    "choice2":"1975",
+    "choice3":"1976",
+    "choice4":"1985",
+    "answer":1
+    }
+]
